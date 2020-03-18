@@ -1,0 +1,14 @@
+C:\Users\Korisnik\source\repos\BlogP\BlogP\bin\Debug\netcoreapp2.1\BlogP.deps.json
+C:\Users\Korisnik\source\repos\BlogP\BlogP\bin\Debug\netcoreapp2.1\BlogP.runtimeconfig.json
+C:\Users\Korisnik\source\repos\BlogP\BlogP\bin\Debug\netcoreapp2.1\BlogP.runtimeconfig.dev.json
+C:\Users\Korisnik\source\repos\BlogP\BlogP\bin\Debug\netcoreapp2.1\BlogP.dll
+C:\Users\Korisnik\source\repos\BlogP\BlogP\obj\Debug\netcoreapp2.1\BlogP.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\BlogP\BlogP\obj\Debug\netcoreapp2.1\BlogP.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\BlogP\BlogP\obj\Debug\netcoreapp2.1\BlogP.RazorAssemblyInfo.cache
+C:\Users\Korisnik\source\repos\BlogP\BlogP\obj\Debug\netcoreapp2.1\BlogP.RazorAssemblyInfo.cs
+C:\Users\Korisnik\source\repos\BlogP\BlogP\obj\Debug\netcoreapp2.1\BlogP.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\BlogP\BlogP\obj\Debug\netcoreapp2.1\BlogP.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\BlogP\BlogP\obj\Debug\netcoreapp2.1\BlogP.RazorTargetAssemblyInfo.cache
+C:\Users\Korisnik\source\repos\BlogP\BlogP\bin\Debug\netcoreapp2.1\BlogP.pdb
+C:\Users\Korisnik\source\repos\BlogP\BlogP\obj\Debug\netcoreapp2.1\BlogP.dll
+C:\Users\Korisnik\source\repos\BlogP\BlogP\obj\Debug\netcoreapp2.1\BlogP.pdb
